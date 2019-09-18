@@ -1,0 +1,68 @@
+{
+    "import": {
+        "users": [
+            {
+                "login": "admin",
+                "email": "admin@example.com",
+                "password": "admin-test-user"
+            },
+            {
+                "login": "user",
+                "email": "user@example.com",
+                "password": "user-test-user"
+            }
+        ],
+        "galleries": [
+            {
+                "title": "gallery 1",
+                "slides": [
+                    {
+                        "title": "picture 1",
+                        "alt": "alt for picture 1",
+                        "filename": "g1-p1.png"
+                    },
+                    {
+                        "title": "picture 2",
+                        "alt": "alt for picture 2",
+                        "filename": "g1-p2.png"
+                    },
+                    {
+                        "title": "picture 3",
+                        "alt": "alt for picture 3",
+                        "filename": "g1-p3.png"
+                    },
+                    {
+                        "title": "picture 4",
+                        "alt": "alt for picture 4",
+                        "filename": "g1-p4.png"
+                    }
+                ]
+            },
+            {
+                "title": "gallery 2",
+                "slides": [
+                    {
+                        "title": "picture 1",
+                        "alt": "alt for picture 1",
+                        "filename": "g2-p1.png"
+                    },
+                    {
+                        "title": "picture 2",
+                        "alt": "alt for picture 2",
+                        "filename": "g2-p2.png"
+                    },
+                    {
+                        "title": "picture 3",
+                        "alt": "alt for picture 3",
+                        "filename": "g2-p3.png"
+                    },
+                    {
+                        "title": "picture 4",
+                        "alt": "alt for picture 4",
+                        "filename": "g2-p4.png"
+                    }
+                ]
+            }
+        ]
+    }
+}
